@@ -2,8 +2,8 @@ def create_an_empty_array
   []
 end
 
-def create_an_array
-  [apples, oranges, berries, melons]
+def create_an_array 
+  fruits = [apples, oranges, berries, melons]
 end
 
 def add_element_to_end_of_array(array, element)
